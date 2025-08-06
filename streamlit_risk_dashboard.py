@@ -5,7 +5,7 @@ import numpy as np
 import seaborn as sns
 
 st.set_page_config(layout="wide")
-st.title("🔍 MATERIALITY & ESGFP RISK ANALYSIS DASHBOARD")
+st.title("🔍 ESG Integrated Process Design & Technologies Tool")
 
 # --- Section 1: Risk Input ---
 st.header("1️⃣ Risk Entry & Ratings")
